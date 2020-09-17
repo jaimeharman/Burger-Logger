@@ -1,5 +1,3 @@
-# Burger-Logger
-
 # Description
 A app that utilizes heroku, node, handlebars, and mysql database. Users are presented with a webpage loaded by handlebars that allows them to create and add a burger. Then they can devour it. The burger will move from the available list to the devoured once eaten. Created burgers and eaten burgers are updated to the mysql database. ORM stucture is used with the server methods.
 
