@@ -9,6 +9,14 @@ On localhost run the server and then go to the localhost:port.
 
 To run from Heroku use the provided link. Use can add a burger of their making to the available to eat list. It will generate a devour it button allowing it to be clicked and moving it from the available list to the devour list.
 
+#Screenshots of Code
+
+![Database](public/images/activity13.PNG)
+
+![Burger.js](public/images/activity13P2.PNG)
+
+![Handlebars](public/images/activity13hb.PNG)
+
 # Resources
 Heroku, Node, Handlebars, MySQL, ORM
 
